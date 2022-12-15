@@ -1,3 +1,15 @@
 img {
   width: 10rem;
 }
+
+#sussy-baka {
+  position: relative;
+}
+
+#smile-sussy {
+  position: absolute;
+  top: 0;
+  left: 0;
+  opacity: 0;
+  transition: all cubic-bezier(0.165, 0.84, 0.44, 1) 0.5s;
+}
